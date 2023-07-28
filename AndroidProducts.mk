@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_lilac.mk
+    $(LOCAL_DIR)/omni_lilac_dcm.mk
